@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @masevs
-- 👀 I’m interested in Geology, Modeling, and Coding
-- 🌱 I’m currently learning Petroleum using Python
+- 👋 Hi, I’m Imas Viestawati
+- 👀 I’m interested in Geology, Energy, Modeling, and Data
+- 🌱 I’m currently learning data science and machine learning for energy
 - 📫 You can reach me at imasviestawati22@gmail.com
 <!---
 masevs/masevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
